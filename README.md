@@ -10,7 +10,7 @@
 
 ## Скриншоты
 
-1. Окно входа
+1. Окно входа:
    
    ![](https://github.com/Durax66/ItogOOP-Tusk1--/blob/master/screenshots/screen%201.png)
 
