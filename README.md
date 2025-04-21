@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
    
-   git clone (https://github.com/Sarc-Kil/Tusk_1.git](https://github.com/Durax66/ItogOOP-Tusk1--)
+   git clone https://github.com/Durax66/ItogOOP-Tusk1--
     
    2. Откройте проект в Visual Studio:
    - Запустите Visual Studio.
