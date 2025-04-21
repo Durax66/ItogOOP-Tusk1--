@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/Sarc-Kil/Егыл_1.git
+   git clone https://github.com/Sarc-Kil/Tusk_1.git
     
    2. Откройте проект в Visual Studio:
    - Запустите Visual Studio.
